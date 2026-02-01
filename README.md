@@ -1,23 +1,60 @@
 # Greeting
 
 - 👋 Hi, I’m @tvpsh2021
-- 🛍 I’m interested in shopping
-- 🎧 MyGO!!!!!, Ave Mujica
+- 🛍 Interested in shopping, daily-life tooling, and small optimizations that make life easier
+- 🎧 Recently listening a lot to Ave Mujica
 
-# How I Use AI Tools
+# Life Configuraition
 
-- Daily Life: Use ChatGPT for writing, language learning, travel planning, and quick idea checks.
-- Work: Rely on Cursor for AI-assisted coding and documentation.
+This is how I organize and run my daily life.
 
-Currently exploring a new architecture:
+| Subject             | Application        |
+| ------------------- | ------------------ |
+| Documentation       | Notion             |
+| Life management     | Notion             |
+| Reminder            | Apple Reminders    |
+| Note                | Apple Notes        |
+| Cloud storage       | Microsoft OneDrive |
+| Password management | Apple Passwords    |
 
-`Brain + Memory Sync + Executor`
 
-e.g. Claude Code as the brain, [Serena](https://github.com/oraios/serena) for memory sync, Cursor as the executor.
+# Life Projects
 
-Still in early experimentation, but aiming to boost both productivity and creativity through this setup.
+More like life milestones than projects.
 
-<!---
-tvpsh2021/tvpsh2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2017
+ - Started scuba diving (SSI Open Water Diver)
+
+2018
+ - Moved to Zhongshan
+ - Became a live music lover
+
+2019
+ - Wanhua house renovation (first round)
+
+2020
+ - Started working out more seriously
+
+2021
+ - Became a VTuber enthusiast
+
+2022
+ - Started doing VTuber clips as a side activity
+
+2023
+ - In a bad personal condition (mentally and physically)
+
+2024
+ - Wanhua house renovation project restarted
+ - Temporarily moved to Xindian
+ - Diagnosed with Central Serous Chorioretinopathy
+ - Lost two managers
+ - Started listening to 2.5D bands, especially Ave Mujica
+
+2025
+ - Wanhua house renovation completed, moved back
+ - Started snowboarding
+ - Attended live concerts in Japan
+
+2026
+ - To be continued
